@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floracochinchine02lour_0002.png"; bbox 0 0 2111 2882; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 634 1022 1141 1280">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 634 1022 1141 1280">
+     <span class='ocr_line' id='line_1_1' title="bbox 752 1022 1015 1053; baseline 0.015 -4"><span class='ocrx_word' id='word_1_1' title='bbox 752 1022 916 1052; x_wconf 73' lang='lat' dir='ltr'><em>presented</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 925 1028 956 1052; x_wconf 82' lang='lat' dir='ltr'>to</span> <span class='ocrx_word' id='word_1_3' title='bbox 967 1023 1015 1053; x_wconf 84' lang='lat' dir='ltr'>the</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 750 1095 1029 1132; baseline 0.014 -9"><span class='ocrx_word' id='word_1_4' title='bbox 750 1095 927 1124; x_wconf 84' lang='lat' dir='ltr'>LIBRARY</span> <span class='ocrx_word' id='word_1_5' title='bbox 938 1097 975 1132; x_wconf 89' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_6' title='bbox 981 1097 1029 1126; x_wconf 83' lang='lat' dir='ltr'>the</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 634 1168 1141 1201; baseline 0.01 -5"><span class='ocrx_word' id='word_1_7' title='bbox 634 1168 875 1198; x_wconf 86' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_8' title='bbox 886 1169 938 1199; x_wconf 90' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_9' title='bbox 947 1170 1141 1201; x_wconf 91' lang='lat' dir='ltr'>TORONTO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 869 1243 907 1280; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 869 1243 907 1280; x_wconf 74' lang='lat' dir='ltr'>by</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 807 1317 969 1347">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 807 1317 969 1347">
+     <span class='ocr_line' id='line_1_5' title="bbox 807 1317 969 1347; baseline 0.012 -2"><span class='ocrx_word' id='word_1_11' title='bbox 807 1317 969 1347; x_wconf 83' lang='lat' dir='ltr'>Professor</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 735 1391 1035 1428">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 735 1391 1035 1428">
+     <span class='ocr_line' id='line_1_6' title="bbox 735 1391 1035 1428; baseline 0.013 -9"><span class='ocrx_word' id='word_1_12' title='bbox 735 1391 838 1428; x_wconf 84' lang='lat' dir='ltr'>Ralph</span> <span class='ocrx_word' id='word_1_13' title='bbox 851 1391 890 1421; x_wconf 91' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_14' title='bbox 903 1391 1035 1423; x_wconf 82' lang='lat' dir='ltr'><strong>Stanton</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2111 2882">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2111 2882">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 2111 2882; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 2111 2882; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
